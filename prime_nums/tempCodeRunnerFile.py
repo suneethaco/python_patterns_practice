@@ -1,1 +1,2 @@
-2, n+1
+if factors == 0:
+        print(i)
